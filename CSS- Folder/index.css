@@ -1,0 +1,105 @@
+body{
+    background-color:#DBB0AB;
+}
+
+h1 {
+    color: #E37C72;
+    font-size: 40px;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: auto;
+    text-align: center;
+}
+
+p{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    float: right;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-top: 5x;
+}
+ul{
+    padding-left: 70px;
+}
+
+.nav_bar{
+    padding-left: 50px;  
+    padding-top: 15px; 
+    
+}
+.container{
+    color: white;
+    float: right;
+    padding-right: 20px;
+    margin-right: 30px;
+    display:flex;
+    font-size: 20px;
+
+}
+.contact{
+    letter-spacing:normal;
+}
+
+.connect{
+    letter-spacing: 10x;
+ }
+.portfolio{
+    letter-spacing: 10px;
+ }
+ .wrapper {
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     height: 100vh;
+     margin-left: 360px;
+ }
+ .contentHolder {
+    display: flex;
+}
+.me {
+    background-image: url(../Images/vanessa.JPG);
+    height: 550px;
+    width: 350px;
+    background-size: cover;
+    
+
+}
+#boxed {
+    width: 475px;
+    background-color: white;
+    height: 450px;
+    margin-top: 48px;
+    text-size-adjust: 55px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+ img { 
+    position: absolute;
+    float: right; 
+    margin-left: 840px; 
+    margin-top: 620px;
+    size: 50px;
+    width: 75px;
+    width: 70px;
+    display: inline-block;  
+}
+.left{
+    margin-left: 920px;
+    margin-top: 550px;
+    size:50px;
+    height: 70px;
+}
+.center{
+    margin-left:980px;
+    margin-top: 560px;
+    width: 60px;
+    height: 60px;   
+
+}
+.right{
+    margin-left:1040px;
+    margin-top: 560px;
+    width: 50px;
+    height: 50px;
+}
